@@ -1,2 +1,4 @@
 # vladkoren1
-Вот типо да, только нужно еще бд установить себе. Настройки сайта в config.php
+Blog by php for my dispute with my friend Vlad
+
+Need to set up config.php and MySql Db....
